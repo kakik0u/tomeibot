@@ -6,3 +6,4 @@
 また、Message Intent等は全て許可してください。
 
 GoogleAppScriptで一分毎にbotに特定のメッセージを送らないと重みや忘却は動きません。
+code.gsをGASに貼り付け一分ごとに実行してください。
